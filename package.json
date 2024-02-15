@@ -1,0 +1,33 @@
+{
+  "name": "@aowu/vuepress-plugin-search",
+  "version": "0.0.1",
+  "description": "search plugin for vuepress",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-search#readme",
+  "bugs": {
+    "url": "https://github.com/vuejs/vuepress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vuepress.git",
+    "directory": "packages/@vuepress/plugin-search"
+  },
+  "license": "MIT",
+  "author": "fudongdonguestc@gmail.com",
+  "main": "index.js",
+  "dependencies": {
+    "@vuepress/types": "1.9.10"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "a3e4bbab8df198b8b18d55031ff0b6f0bf190fdb",
+  "__npminstall_done": true,
+  "_from": "@vuepress/plugin-search@1.9.10",
+  "_resolved": "https://registry.npmmirror.com/@vuepress/plugin-search/-/plugin-search-1.9.10.tgz"
+}
