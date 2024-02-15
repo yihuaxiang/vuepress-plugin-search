@@ -1,5 +1,5 @@
 {
-  "name": "@aowu/vuepress-plugin-search",
+  "name": "aowu-vuepress-plugin-search",
   "version": "0.0.1",
   "description": "search plugin for vuepress",
   "keywords": [
